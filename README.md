@@ -8,9 +8,9 @@ I am a collaborative, results-driven Cloud Engineer with hands-on experience in 
 
 Get To Know Abit More About Me:
 
-### I’m currently working on Mulitiple Projects - Using CICD Porojects and Container Orchestrations With Kubernetes
+### I’m currently working on Mulitiple Projects - Using Github Actions For CICD, Terraform as IaC, Ansible For Infrastructure Configuration, AWS as Cloud Provider, Python For Scripting and Containerizations With Docker and Orchestrations With Kubernetes.
 - 👯 I’m looking to collaborate with Cloud DevOps Engineers
-- 🤔 I’m looking for help with boosting my skillset with other projects and job openings for Entry-level Cloud Devops Engineering
+- 🤔 I’m looking for help with boosting my skill set with other projects and job openings for Cloud Devops Engineering
 - 💬 Ask me about Cloud and DevOps tasks and projects
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
