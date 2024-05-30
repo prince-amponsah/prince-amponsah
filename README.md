@@ -10,5 +10,5 @@ Get To Know Abit More About Me:
 - 💬 Ask me about Cloud and DevOps tasks and projects
 - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love Football and A die hard Fan Of Chelsea Football Club - The Blues
+- ⚡ Fun fact: I Love football and a die hard fan Of Chelsea Football Club - The Blues!
 
