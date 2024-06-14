@@ -4,13 +4,21 @@ Welcome To My World of Cloud DevOps Engineering.
 
 ### About Me:
 
-I am a collaborative, results-driven Cloud Engineer with hands-on experience in building, deploying and maintaining cloud solutions. I bring 8+ years of experience in technical project management, Web Development ( HTML, CSS and Javascript, Wordpress ) and technical support. I bring in the blend of technical proficiency and customer obsession. I thrive in dynamic, fast-paced environments and am adept at managing multiple priorities while staying focused on the big picture. I’m a natural communicator,  fast-learner, and collaborator who is passionate about bringing people together to achieve common goals.
+Hi there! I am a collaborative and results-driven Cloud Engineer with 2 years of hands-on experience in building, deploying, and maintaining cloud solutions. My background includes over 7 years in technical project management, web development (HTML, CSS, JavaScript, WordPress), and technical support. I pride myself on blending technical proficiency with a strong customer-centric approach.
+I thrive in dynamic, fast-paced environments and am skilled at managing multiple priorities while staying focused on the big picture. As a natural communicator, fast learner, and dedicated collaborator, I am passionate about uniting people to achieve common goals.
 
-Get To Know Abit More About Me:
+### Currently, I'm working on multiple projects involving: ###
 
-### I’m currently working on Mulitiple Projects - Using Github Actions For CICD, Terraform as IaC, Ansible For Infrastructure Configuration, AWS as Cloud Provider, Python For Scripting and Containerizations With Docker and Orchestrations With Kubernetes.
-- 👯 I’m looking to collaborate with Cloud DevOps Engineers
-- 🤔 I’m looking for help with boosting my skill set with other projects and job openings for Cloud Devops Engineering
+
+- CI/CD with GitHub Actions
+- Infrastructure as Code with Terraform
+- Infrastructure Configuration with Ansible
+- Cloud Solutions on AWS
+- Scripting with Python
+- Containerization with Docker
+- Orchestration with Kubernetes
+
+### - 👯 I’m looking to collaborate with Cloud DevOps Engineering Job Roles
 - 💬 Ask me about Cloud and DevOps tasks and projects
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
