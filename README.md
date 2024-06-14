@@ -10,13 +10,14 @@ I thrive in dynamic, fast-paced environments and am skilled at managing multiple
 ### Currently, I'm working on multiple projects involving: ###
 
 
-- CI/CD with GitHub Actions
+- Linux Administration
 - Infrastructure as Code with Terraform
 - Infrastructure Configuration with Ansible
 - Cloud Solutions on AWS
-- Scripting with Python
+- Scripting with Python and Bash
 - Containerization with Docker
 - Orchestration with Kubernetes
+-  CI/CD with GitHub Actions/ AWS DevOps
 
 ### - 👯 I’m looking to collaborate with Cloud DevOps Engineering Job Roles
 - 💬 Ask me about Cloud and DevOps tasks and projects
