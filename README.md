@@ -19,7 +19,7 @@ I thrive in dynamic, fast-paced environments and am skilled at managing multiple
 - Orchestration with Kubernetes
 -  CI/CD with GitHub Actions/ AWS DevOps
 
-### - 👯 I’m looking to collaborate with Cloud DevOps Engineering Job Roles
+### - 👯 I’m open to job roles related to Cloud DevOps Engineering or Solutions Engineering
 - 💬 Ask me about Cloud and DevOps tasks and projects
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
