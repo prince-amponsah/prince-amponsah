@@ -3,8 +3,7 @@ Here's to learning more about me:
 
 ### About Me:
 
-With 8+ years of experience in IT, my background spans technical project management, web development (HTML, CSS, JavaScript, WordPress), and technical support. Now, I’m transitioning into Cloud Engineering and SRE roles, building skills in Python, Docker, AWS, Kubernetes, and Terraform.
-
+With 8+ years of experience in IT, my background spans technical project management, web development (HTML, CSS, JavaScript, WordPress), and technical support. Now, I’m transitioning into Cloud Engineering and SRE roles, building skills in Python, Docker, AWS, Kubernetes, CICD and Terraform.
 I bring a passion for learning and a collaborative mindset, thriving in fast-paced environments. My experience in customer-centric roles, combined with my technical abilities, enables me to adapt quickly and work effectively in cross-functional teams. I am actively seeking opportunities to apply my skills in Cloud, DevOps, and SRE.
 📂 Check out my repositories as I build and contribute to projects in cloud technologies and DevOps tools.
 
