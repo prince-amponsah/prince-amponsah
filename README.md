@@ -19,7 +19,7 @@ I bring a passion for learning and a collaborative mindset, thriving in fast-pac
 - Orchestration with Kubernetes
 -  CI/CD with GitHub Actions
   
-### - 👯 I’m open to job roles related to Cloud DevOps and SRE.
+### - 👯 I’m open to job roles related to Cloud, DevOps and SRE.
 
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
