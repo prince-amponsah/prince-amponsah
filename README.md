@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Prince Amponsah
-
-Welcome To My World of Cloud DevOps Engineering.
+Here's to learning more about me:
 
 ### About Me:
 
@@ -14,14 +13,14 @@ I bring a passion for learning and a collaborative mindset, thriving in fast-pac
 - Linux Administration
 - Infrastructure as Code with Terraform
 - Infrastructure Configuration with Ansible
-- Cloud Solutions on AWS
-- Scripting with Python and Bash
+- Cloud Solutions on AWS, GCP
+- Programming/Scripting with Python and Bash
 - Containerization with Docker
 - Orchestration with Kubernetes
--  CI/CD with GitHub Actions/ AWS DevOps
-
+-  CI/CD with GitHub Actions
+  
 ### - 👯 I’m open to job roles related to Cloud DevOps and SRE.
-- 💬 Ask me about Cloud and DevOps tasks and projects
+
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
 
