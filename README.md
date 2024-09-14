@@ -19,7 +19,7 @@ My experience in customer-centric roles, combined with my technical abilities, e
 - Orchestration with Kubernetes
 -  CI/CD with GitHub Actions
   
-### - 👯 I’m open to job roles related to Cloud, DevOps and SRE.
+### - 👯 I’m open to job roles related to Technical Support, Cloud, DevOps and SRE.
 
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
