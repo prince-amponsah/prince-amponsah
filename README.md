@@ -17,7 +17,7 @@ With over 8 years of IT experience, I have a diverse background in Cloud Enginee
 - Orchestration with Kubernetes
 -  CI/CD with Jenkins and GitHub Actions
   
-### - 👯 I’m open to job roles related to Technical Support, Cloud, DevOps and SRE.
+### - 👯 I’m open to job roles related to Technical Support, Cloud, DevOps, Platform and SRE Engineering.
 
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
