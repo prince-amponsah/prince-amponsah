@@ -15,7 +15,7 @@ With over 8 years of IT experience, I have a diverse background in Cloud Enginee
 - Programming/Scripting with Python and Bash
 - Containerization with Docker
 - Orchestration with Kubernetes
--  CI/CD with GitHub Actions
+-  CI/CD with Jenkins and GitHub Actions
   
 ### - 👯 I’m open to job roles related to Technical Support, Cloud, DevOps and SRE.
 
