@@ -10,12 +10,12 @@ With over 8 years of IT experience, I have a diverse background in Cloud Enginee
 
 - Linux Administration
 - Iac with Terraform
-- Infrastructure Configuration with Ansible
 - Architecting Cloud Solutions on AWS
 - Programming/Scripting with Python and Bash
+- Api Development With FastApi
 - Containerization with Docker
 - Orchestration with Kubernetes
--  CI/CD with GitHub Actions
+- CI/CD with GitHub Actions
   
 ### - 👯 I’m open to job roles related to Technical Support, Cloud, DevOps, Platform and SRE Engineering.
 
