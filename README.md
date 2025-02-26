@@ -17,9 +17,7 @@ I'm passionate about building scalable cloud solutions, automating infrastructur
 - Kubernetes Orchestration 🚢
 - CI/CD Pipelines with GitHub Actions 🔄
   
-### - 💡 I'm open to roles in: Cloud, DevOps, Platform, SRE, and Technical Support Engineering.
-## 📂 Check out my repositories to see my contributions and projects in Cloud & DevOps technologies! Let’s build something awesome together! 🚀
+- 💡 I'm open to roles in: **Cloud, DevOps, Platform, SRE, and Technical Support Engineering.**
+ 📂 **Check out my repositories** to see my contributions and projects in **Cloud & DevOps** technologies! Let’s build something awesome together! 🚀
 
-## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
-- 😄 Pronouns: He/Him
 
