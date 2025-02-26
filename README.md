@@ -19,6 +19,8 @@ I'm passionate about building scalable **cloud solutions, automating infrastruct
   
 - 💡 I'm open to roles in: **Cloud, DevOps, Platform, SRE, and Technical Support Engineering.**
   
- 📂 **Check out my repositories** to see my contributions and projects in **Cloud & DevOps** technologies! Let’s build something awesome together! 🚀
+ 📂 **Check out my repositories** to see my contributions and projects in **Cloud & DevOps** technologies!
+ 
+ **Let’s build something awesome together! **🚀
 
 
