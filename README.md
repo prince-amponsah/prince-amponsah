@@ -3,21 +3,22 @@ Here's to learning more about me:
 
 ### About Me:
 
-With over 8 years of IT experience, I have a diverse background in Cloud Engineering, technical project management, website development, and technical support. Currently freelancing as a Cloud and SRE Engineer, I’m building projects using Python, Docker, AWS, Kubernetes, CI/CD with GitHub Actions, and Terraform. I’m driven by a passion for learning and excel in fast-paced, collaborative environments. My customer-focused experience, paired with strong technical skills, allows me to quickly adapt and contribute to cross-functional teams. I am actively seeking opportunities to leverage my expertise in Cloud, DevOps, and SRE.
-📂 Check out my repositories as I build and contribute to projects in cloud technologies and DevOps tools.
+With 8+ years of IT experience, I bring a diverse background in Cloud Engineering, DevOps, SRE, technical project management, and website development. Currently freelancing as a Cloud & SRE Engineer, I specialize in Python, Docker, AWS, Kubernetes, CI/CD with GitHub Actions, and Terraform.
+I'm passionate about building scalable cloud solutions, automating infrastructure, and enhancing system reliability. My ability to adapt quickly and collaborate in fast-paced environments makes me a valuable asset to cross-functional teams.
 
-### Currently, I'm working on multiple projects involving: ###
+### 🔧 What I’m Working On: ###
 
-- Linux Administration
-- Iac with Terraform
-- Architecting Cloud Solutions on AWS
-- Programming/Scripting with Python and Bash
-- Api Development With FastApi
-- Containerization with Docker
-- Orchestration with Kubernetes
-- CI/CD with GitHub Actions
+- Linux Administration 🖥️
+- Infrastructure as Code (IaC) with Terraform ⚙️
+- Cloud Architecture & Automation on AWS ☁️
+- Scripting & Development with Python & Bash 🐍
+- API Development with FastAPI 🔗
+- Containerization with Docker 🐳
+- Kubernetes Orchestration 🚢
+- CI/CD Pipelines with GitHub Actions 🔄
   
-### - 👯 I’m open to job roles related to Technical Support, Cloud, DevOps, Platform and SRE Engineering.
+### - 💡 I'm open to roles in: Cloud, DevOps, Platform, SRE, and Technical Support Engineering.
+## 📂 Check out my repositories to see my contributions and projects in Cloud & DevOps technologies! Let’s build something awesome together! 🚀
 
 ## - 📫 How to reach me: <a href="mailto:princekwes@gmail.com">princekwes@gmail.com</a>
 - 😄 Pronouns: He/Him
