@@ -11,10 +11,9 @@ I'm passionate about building scalable **cloud solutions, automating infrastruct
 - Linux Administration 🖥️
 - Infrastructure as Code (IaC) with Terraform ⚙️
 - Cloud Architecture & Automation on AWS ☁️
-- Scripting & Development with Python & Bash 🐍
-- API Development with FastAPI 🔗
+- Scripting with Python & Bash 🐍
 - Containerization with Docker 🐳
-- Kubernetes Orchestration 🚢
+- Kubernetes for Orchestration 🚢
 - CI/CD Pipelines with GitHub Actions 🔄
   
 - 💡 I'm open to roles in: **Cloud, DevOps, Platform, SRE, and Technical Support Engineering.**
