@@ -6,7 +6,7 @@ Welcome to my GitHub Repo! I'm a result-oriented Cloud DevOps Engineer with 2+ y
 
 ## 🚀 About Me
 
-I'm currently freelancing as a **Cloud, DevOps & SRE Engineer**, where I design and implement scalable, reliable, and automated infrastructure solutions.
+I'm currently freelancing as a **Cloud DevOps Engineer**, where I design and implement scalable, reliable, and automated infrastructure solutions in the cloud using AWS & GCP.
 
 
  **AWS** | **Terraform** | **Docker** | **Kubernetes** | **GitHub Actions** | **Scripting With Python & Bash** | **FastApi** | **Monitoring - Prometheus, Grafana, ELK**
