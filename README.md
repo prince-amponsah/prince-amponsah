@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Prince Amponsah
 
-Welcome to my GitHub! I'm a passionate Cloud DevOps Engineer with 2+ years of hands-on experience building and managing modern cloud infrastructure, and over 8 years in the broader IT industry.
+Welcome to my GitHub Repo! I'm a result-oriented Cloud DevOps Engineer with 2+ years of hands-on experience building and managing modern cloud infrastructure, and over 8 years in the broader IT industry.
 
 ---
 
