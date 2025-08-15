@@ -9,12 +9,4 @@ Welcome to my GitHub! I'm a passionate Cloud DevOps Engineer with 2+ years of ha
 I'm currently freelancing as a **Cloud, DevOps & SRE Engineer**, where I design and implement scalable, reliable, and automated infrastructure solutions.
 
 
- **AWS** | **Terraform** | **Docker** | **Kubernetes** | **GitHub Actions** | **Scripting With Python & Bash** | **FastApi** | **MOnitoring - Prometheus, Grafana, ELK**
-- 🐳 Containerization using **Docker**
-- 🚢 Orchestration with **Kubernetes**
-- ☁️ Cloud Architecture on **AWS**
-- 🔄 CI/CD Pipelines with **GitHub Actions**
-- 🐍 Backend Development and scripting with **Python**
-- 💻 Automation with **Bash**
-
-I'm passionate about improving system reliability, enhancing developer workflows, and delivering high-impact cloud-native solutions.
+ **AWS** | **Terraform** | **Docker** | **Kubernetes** | **GitHub Actions** | **Scripting With Python & Bash** | **FastApi** | **Monitoring - Prometheus, Grafana, ELK**
