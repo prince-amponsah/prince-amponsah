@@ -8,9 +8,8 @@ Welcome to my GitHub! I'm a passionate Cloud DevOps Engineer with 2+ years of ha
 
 I'm currently freelancing as a **Cloud, DevOps & SRE Engineer**, where I design and implement scalable, reliable, and automated infrastructure solutions.
 
-I specialize in:
 
-- ⚙️ Infrastructure as Code with **Terraform**
+ **AWS** | **Terraform** | **Docker** | **Kubernetes** | **GitHub Actions** | **Scripting With Python & Bash** | **FastApi** | **MOnitoring - Prometheus, Grafana, ELK**
 - 🐳 Containerization using **Docker**
 - 🚢 Orchestration with **Kubernetes**
 - ☁️ Cloud Architecture on **AWS**
