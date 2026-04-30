@@ -1,12 +1,33 @@
-# 👋 Hi there, I'm Prince Amponsah
+# Hi, I'm Prince Amponsah
 
-Welcome to my GitHub Repo! I'm a result-oriented **Cloud DevOps Engineer** with 2+ years of hands-on experience building and managing modern cloud infrastructure, and over 8 years in the broader IT industry.
+**TechOps Engineer at Kowri** — DevOps & SRE. I have 3+ years of hands-on cloud infrastructure experience and 8+ years across the broader IT industry, working on production systems that need to be reliable, secure, and maintainable.
+
+My day-to-day spans infrastructure deployment, system reliability, security hardening, and everything in between — from cloud to on-premises.
 
 ---
 
-## 🚀 About Me
+## What I Work With
 
-I'm currently freelancing as a **Cloud DevOps Engineer**, where I design and implement scalable, reliable, and automated infrastructure solutions in the cloud using AWS & GCP.
+**Cloud & Infrastructure**
+`AWS` `OCI` `Terraform` `Docker` `Kubernetes`
 
+**Automation & CI/CD**
+`GitHub Actions` `Bash` `Python`
 
- **AWS** | **Terraform** | **Docker** | **Kubernetes** | **GitHub Actions** | **Scripting With Python & Bash** | **FastApi** | **Monitoring - Prometheus, Grafana, ELK**
+**Observability**
+`Prometheus` `Grafana` `ELK Stack` `Datadog` `Rapid7` `Squadcast`
+
+---
+
+## Recent Work
+
+- Deployed a full-stack port operations portal onto a 7-node on-premises RHEL 9.4 cluster — Flutter frontend, Go backend, Keycloak 26.x identity, PostgreSQL 15 HA, Nginx load balancing
+- Migrated production databases from AWS RDS to on-premises PostgreSQL with zero data loss
+- Hardened Nginx across on-prem and cloud VMs ahead of a formal penetration test
+- Designed and configured a cross-subnet reverse proxy for a live maritime port environment
+
+---
+
+## Let's Connect
+
+Open to collaborations, open source contributions, and infrastructure discussions.
